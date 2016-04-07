@@ -178,6 +178,22 @@ section h3.section-subheading{font-size:16px;font-family:"Droid Serif","Helvetic
 @media (min-width:768px){section{padding:150px 0}}
 	
 .service-heading{margin:15px 0;text-transform:none}
+
+.service-box {
+    margin: 50px auto 0;
+    max-width: 400px;
+}
+
+@media(min-width:992px) {
+    .service-box {
+        margin: 20px auto 0;
+    }
+}
+
+.service-box p {
+    margin-bottom: 0;
+}
+
 #portfolio .portfolio-item{margin:0 0 15px;right:0}
 #portfolio .portfolio-item .portfolio-link{display:block;position:relative;max-width:400px;margin:0 auto}
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-box{
