@@ -227,9 +227,9 @@ section h3.section-subheading{font-size:16px;font-family:"Droid Serif","Helvetic
     color: #fff;
     opacity: 0;
     background: rgba(240,95,64,.9);
-    -webkit-transition: all .25s;
-    -moz-transition: all .25s;
-    transition: all .25s;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
@@ -275,7 +275,7 @@ section h3.section-subheading{font-size:16px;font-family:"Droid Serif","Helvetic
 }
 
 .text-primary {
-    color: #fff;
+    color: #eb3812;
 }
 
 
